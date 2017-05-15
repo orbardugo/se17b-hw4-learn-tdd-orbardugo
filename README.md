@@ -20,7 +20,7 @@ For students, follow these steps:
 - Name:  Or Bardugo
 - ID#:302891551
 - github username: orbardugo
-- Estimation of hours I worked on it: 
+- Estimation of hours I worked on it: 4H
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
